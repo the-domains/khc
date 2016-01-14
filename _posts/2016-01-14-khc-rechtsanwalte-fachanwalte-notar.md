@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T18:11:58.048Z'
-dateModified: '2016-01-14T18:11:36.595Z'
+datePublished: '2016-01-14T18:53:05.624Z'
+dateModified: '2016-01-14T18:20:08.437Z'
 title: KHC - Rechtsanwälte Fachanwälte Notar
 author: []
+sourcePath: _posts/2016-01-14-khc-rechtsanwalte-fachanwalte-notar.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-khc-rechtsanwalte-fachanwalte-notar.md
-published: true
 url: khc-rechtsanwalte-fachanwalte-notar/index.html
 _type: Article
 
@@ -38,3 +38,4 @@ Wir arbeiten als spezialisierte Rechtsanwälte, als Mediatoren, als Notar und St
 
 KHC kooperiert auch mit Kompetenzträgern anderer Berufe, zum Beispiel mit Wirtschaftsprüfern, anderen Steuerberatern, Patentanwälten und Sachverständigen.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/577a6439-92f5-42f5-af76-30f519908439.svg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9504a175-276a-49ad-8b96-dec346d79be5.png)
