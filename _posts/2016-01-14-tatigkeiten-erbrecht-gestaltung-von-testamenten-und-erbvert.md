@@ -1,18 +1,24 @@
 ---
 description: TÄTIGKEITEN  Erbrecht Gestaltung von Testamenten und Erbverträgen Gestaltung von Unternehmertestamenten Gestaltung Ihrer Unternehmens- und Vermögensnachfolge Te
+isBasedOnUrl: 'http://knaack.de/'
 author: []
-datePublished: '2016-01-14T18:44:06.884Z'
+datePublished: '2016-01-14T18:53:28.157Z'
 publisher:
-  domain: knaack.de
   name: knaack.de
-dateModified: '2016-01-14T18:43:22.700Z'
+  domain: knaack.de
+  url: null
+  favicon: null
+dateModified: '2016-01-14T18:53:25.386Z'
 title: ''
 sourcePath: _posts/2016-01-14-tatigkeiten-erbrecht-gestaltung-von-testamenten-und-erbvert.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: tatigkeiten-erbrecht-gestaltung-von-testamenten-und-erbvert/index.html
+inLanguage: null
+starred: false
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
