@@ -1,7 +1,7 @@
 name: KHC
 favicon: null
-layout_spectrum: 0.6755748286377639
-typography_spectrum: 0.8437705950345844
+layout_spectrum: 0
+typography_spectrum: 0.34407
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3109424428548664
-  lightness: 0.8289054555352777
-  saturation: 0.6348341638222337
-  rhythmicContrast: 0.41868542903102934
+    - '#007878'
+    - '#005557'
+    - '#c7e1e4'
+    - '#000000'
+    - '#006666'
+  brandStrength: 0.625
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
