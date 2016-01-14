@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[KHC]]></title>
+        <description><![CDATA[KHC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jan 2016 18:11:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KHC - Rechtsanwälte Fachanwälte Notar]]></title>
+            <description><![CDATA[<article><h1>KHC - Rechtsanwälte Fachanwälte Notar</h1><p>KHC bearbeitet und betreut lösungsorientiert und verschwiegen hauptsächlich zivilrechtliche Angelegenheiten - überwiegend in den Kerngebieten </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d8849d91c4581d346490dfe38b6010da1f8d480.svg"></article>]]></description>
+            <link>undefinedkhc-rechtsanwalte-fachanwalte-notar/index.html</link>
+            <guid isPermaLink="false">fa6cd82f-8cf1-4b5c-9755-0773f12e91d7</guid>
+            <pubDate>Thu, 14 Jan 2016 18:11:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
