@@ -1,29 +1,41 @@
-name: KHC
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.34407
-title: Rechtsanwälte Fachanwälte und Notar
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.875
+  saturation: 0.75
   brandColors:
     - '#007878'
     - '#005557'
     - '#c7e1e4'
     - '#000000'
     - '#006666'
-  brandStrength: 0.875
   lightness: 1
-  saturation: 0.75
   rhythmicContrast: 0.5
+title: Rechtsanwälte Fachanwälte und Notar
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+name: KHC
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.34407
